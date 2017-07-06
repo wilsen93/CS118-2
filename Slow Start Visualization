@@ -1,0 +1,32 @@
+send 1025 x
+send 2049 x
+
+receive 2049 x
+
+send 3073 -x
+send 4097 -x
+
+receive 3073 x
+
+send 5121 -xx
+send 6145 -xx
+
+receive 4097 xx
+
+send 7169 --
+send 8193 --
+
+receive 5121 xx
+
+send 9217 --
+send 10241 --
+
+receive 6145 xx
+
+send 11265 --
+send 12289 --
+
+receive 7169 xx
+
+send 13313 --
+send 14337 --
